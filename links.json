@@ -9,14 +9,4 @@
     "name": "A1 News PK",
     "uri": "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8"
   }
-    {
-    "id": "3",
-    "name": "A1 News UK2",
-    "uri": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
-  },
-  {
-    "id": "3",
-    "name": "A1 News PK2",
-    "uri": "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8"
-  }
 ]
